@@ -6,8 +6,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachtiarfr&theme=tokyonight&layout=compact&langs_count=8&card_width=320" height="180" alt="Top Languages" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/bachtiarfr/laravel_restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bachtiarfr&repo=laravel_restaurant&theme=tokyonight" alt="laravel_restaurant" />
-  </a>
-</p>
